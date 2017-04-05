@@ -1,12 +1,43 @@
-body {
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
 .navbar {
     margin-bottom: 20px;
 }
 
-.box {
-    border: 1px solid red;
+.container {
+    width: 80%;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    color: #b2b2b2;
+    background-color: #b2b2b2;
+}
+
+.deals {
+    position:absolute;
+    width:85%;
+    top:54%;
+    background-color:rgba(0, 0, 0, 0.5);
+}
+
+.top-deal{
+    margin-top: 1.5%;
+}
+
+.top {
+    position:absolute;
+    width:89%;
+    top:53.5%;
+    background-color:rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    text-align:center;
+    color: white;
+}
+
+.home-headline{
+    font-family: "Times New Roman", Times, serif;
+    font-size:24px;
+    text-align:center;
 }
